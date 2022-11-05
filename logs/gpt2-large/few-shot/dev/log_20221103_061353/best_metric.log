@@ -1,0 +1,6 @@
+{"metric": {"dev": {"acc": 0.512}}}
+{"metric": {"dev": {"acc": 0.525}}}
+{"metric": {"dev": {"acc": 0.529}}}
+{"metric": {"dev": {"acc": 0.551}}}
+{"metric": {"dev": {"acc": 0.557}}}
+{"metric": {"dev": {"acc": 0.564}}}

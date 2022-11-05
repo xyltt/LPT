@@ -1,0 +1,10 @@
+Step:100	{"metric": {"dev": {"acc": 0.498}}, "step": 100}
+Step:200	{"metric": {"dev": {"acc": 0.501}}, "step": 200}
+Step:300	{"metric": {"dev": {"acc": 0.51}}, "step": 300}
+Step:400	{"metric": {"dev": {"acc": 0.506}}, "step": 400}
+Step:500	{"metric": {"dev": {"acc": 0.514}}, "step": 500}
+Step:600	{"metric": {"dev": {"acc": 0.517}}, "step": 600}
+Step:700	{"metric": {"dev": {"acc": 0.516}}, "step": 700}
+Step:800	{"metric": {"dev": {"acc": 0.516}}, "step": 800}
+Step:900	{"metric": {"dev": {"acc": 0.52}}, "step": 900}
+Step:1000	{"metric": {"dev": {"acc": 0.522}}, "step": 1000}

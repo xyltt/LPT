@@ -1,0 +1,10 @@
+Step:78	{"metric": {"dev": {"acc": 0.5415162454873647}}, "step": 78}
+Step:156	{"metric": {"dev": {"acc": 0.5776173285198556}}, "step": 156}
+Step:234	{"metric": {"dev": {"acc": 0.6678700361010831}}, "step": 234}
+Step:312	{"metric": {"dev": {"acc": 0.6787003610108303}}, "step": 312}
+Step:390	{"metric": {"dev": {"acc": 0.6714801444043321}}, "step": 390}
+Step:468	{"metric": {"dev": {"acc": 0.6606498194945848}}, "step": 468}
+Step:546	{"metric": {"dev": {"acc": 0.6570397111913358}}, "step": 546}
+Step:624	{"metric": {"dev": {"acc": 0.6534296028880866}}, "step": 624}
+Step:702	{"metric": {"dev": {"acc": 0.6642599277978339}}, "step": 702}
+Step:780	{"metric": {"dev": {"acc": 0.6678700361010831}}, "step": 780}
