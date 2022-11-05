@@ -51,5 +51,3 @@ If you find this work helpful, please cite:
   year      = "2022"
 }
 ```
-
-```
