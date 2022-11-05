@@ -44,7 +44,7 @@ If you have any problems, raise an issue or contact [Xiangyang Liu](mailto:xyliu
 If you find this work helpful, please cite:
 
 ```bibtex
-@article{liu2022lpt,p
+@inproceedings{liu2022lpt,
   author    = "Xiangyang Liu and Tianxiang Sun and Xuanjing Huang and Xipeng Qiu",
   title     = "Late Prompt Tuning: {A} Late Prompt Could Be Better Than Many Prompts",
   booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
