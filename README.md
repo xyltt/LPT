@@ -4,7 +4,7 @@
 
 Late Prompt Tuning (LPT) is a prompt-based tuning method that combined late and instance-aware prompts. It inserts a soft prompt into an intermediate layer of pre-trained models. To further improve performance and take full advantage of these contextual hidden representations below the prompt insertion layer, LPT introduces a prompt generator to generate an independent prompt for each instance using the hidden representations. Its illustration is as follows. LPT can achieve competitive performance to full model tuning and other PETuning methods under both fulldata and few-shot scenarios while possessing faster training speed and lower memory cost. More details are provided in our EMNLP paper [Late Prompt Tuning: A Late Prompt Could Be Better Than Many Prompts](https://arxiv.org/pdf/2210.11292.pdf).
 
-<div align=center><img src="https://github.com/xyltt/LPT/blob/main/pics/LPT.png"/></div>
+<div align=center><img width="697" height="426" src="https://github.com/xyltt/LPT/blob/main/pics/LPT.png"/></div>
 
 ## Prepare your environment
 
