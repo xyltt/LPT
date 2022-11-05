@@ -48,7 +48,7 @@ If you find this work helpful, please cite:
   author    = "Xiangyang Liu and Tianxiang Sun and Xuanjing Huang and Xipeng Qiu",
   title     = "Late Prompt Tuning: {A} Late Prompt Could Be Better Than Many Prompts",
   booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
-  year= "2022"
+  year      = "2022"
 }
 ```
 
