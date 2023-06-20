@@ -25,14 +25,14 @@ cd LPT
 
 Now you can run LPT on RoBERTa-Large (encoder-only) and GPT2-Large (decoder-only) models with `run_roberta.sh` and `run_gpt2.sh`, respectively.
 
-For running LPT on RoBERTa-Larg model:
+To run LPT on RoBERTa-Large model:
 ```bash
-bash enoder-only/run_roberta.sh 
+bash encoder-only/run_roberta.sh 
 ```
 
-For running LPT on GPT2-Larg model:
+To run LPT on GPT2-Large model:
 ```bash
-bash deoder-only/run_gpt2.sh 
+bash decoder-only/run_gpt2.sh 
 ```
 
 For different experiment settings such as full-data setting and few-shot setting, you only need to adjust the dataset path and some hyperparamters like the number of training epochs. 
